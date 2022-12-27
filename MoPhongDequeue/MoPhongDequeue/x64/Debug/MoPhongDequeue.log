@@ -1,0 +1,6 @@
+﻿  MoPhongDequeue.cpp
+D:\Workspace\CTDL\MoPhongDequeue\MoPhongDequeue\graphics.h(41,56): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Workspace\CTDL\MoPhongDequeue\MoPhongDequeue\graphics.h(42,56): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Workspace\CTDL\MoPhongDequeue\MoPhongDequeue\graphics.h(238,18): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+D:\Workspace\CTDL\MoPhongDequeue\MoPhongDequeue\graphics.h(239,18): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+  MoPhongDequeue.vcxproj -> D:\Workspace\CTDL\MoPhongDequeue\x64\Debug\MoPhongDequeue.exe
