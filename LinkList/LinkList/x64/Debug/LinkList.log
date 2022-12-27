@@ -1,0 +1,6 @@
+﻿  LinkList.cpp
+D:\bao\CTDL\Đồ án\LinkList\LinkList\graphics.h(41,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\bao\CTDL\Đồ án\LinkList\LinkList\graphics.h(42,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\bao\CTDL\Đồ án\LinkList\LinkList\graphics.h(326,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+D:\bao\CTDL\Đồ án\LinkList\LinkList\graphics.h(327,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+  LinkList.vcxproj -> D:\bao\CTDL\Đồ án\LinkList\x64\Debug\LinkList.exe
