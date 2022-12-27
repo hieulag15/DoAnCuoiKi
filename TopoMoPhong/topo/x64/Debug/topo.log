@@ -1,0 +1,39 @@
+﻿  topo.cpp
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\graphics.h(41,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\graphics.h(42,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\graphics.h(274,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\graphics.h(275,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(295,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(316,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(377,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(447,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(450,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(465,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(468,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(473,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(524,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(526,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(528,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(587,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(589,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(591,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(607,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(663,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(665,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(667,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(678,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(737,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(739,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(741,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(817,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(819,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(821,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(903,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(905,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(907,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(930,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(995,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(997,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(999,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\topo\topo.cpp(1010,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  topo.vcxproj -> D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\topo\x64\Debug\topo.exe
