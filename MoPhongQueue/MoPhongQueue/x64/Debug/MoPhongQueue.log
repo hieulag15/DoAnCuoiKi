@@ -1,0 +1,6 @@
+﻿  Queue.cpp
+D:\bao\CTDL\Đồ án\MoPhongQueue\MoPhongQueue\graphics.h(41,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\bao\CTDL\Đồ án\MoPhongQueue\MoPhongQueue\graphics.h(42,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\bao\CTDL\Đồ án\MoPhongQueue\MoPhongQueue\graphics.h(283,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+D:\bao\CTDL\Đồ án\MoPhongQueue\MoPhongQueue\graphics.h(284,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+  MoPhongQueue.vcxproj -> D:\bao\CTDL\Đồ án\MoPhongQueue\x64\Debug\MoPhongQueue.exe
