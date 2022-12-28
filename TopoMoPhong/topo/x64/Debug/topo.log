@@ -1,0 +1,33 @@
+﻿  topo.cpp
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\graphics.h(41,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\graphics.h(42,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\graphics.h(274,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\graphics.h(275,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(276,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(281,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(314,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(351,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(354,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(369,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(371,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(373,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(400,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(403,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(408,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(444,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(446,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(448,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(459,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(482,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(484,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(486,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(491,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(674,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(676,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(678,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(695,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(727,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(729,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(731,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\topo\topo.cpp(736,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  topo.vcxproj -> D:\lAY\HieuLap\HK3\CTDL&GT\CUOI_KI\topological\TopoMoPhong - Copy\x64\Debug\topo.exe
