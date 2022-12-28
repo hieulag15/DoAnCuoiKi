@@ -1,6 +1,0 @@
-﻿  CircleList.cpp
-D:\bao\CTDL\Đồ án\CircleList\CircleList\graphics.h(41,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
-D:\bao\CTDL\Đồ án\CircleList\CircleList\graphics.h(42,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
-D:\bao\CTDL\Đồ án\CircleList\CircleList\graphics.h(324,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
-D:\bao\CTDL\Đồ án\CircleList\CircleList\graphics.h(325,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
-  CircleList.vcxproj -> D:\bao\CTDL\Đồ án\CircleList\x64\Debug\CircleList.exe
